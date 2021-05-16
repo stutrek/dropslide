@@ -1,0 +1,6 @@
+.board {
+    font-size: 20px;
+    position: relative;
+    border: 1px solid silver;
+    padding: 1em;
+}
